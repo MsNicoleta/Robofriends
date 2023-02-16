@@ -12,7 +12,9 @@ class App extends Component {
             searchfield: ''
         }
     }
-
+    componentDidMount() {
+        console.log ('check')
+    }
     onSearchChange = (event) =>{
         this.setState({searchfield: event.target.value})
     }
