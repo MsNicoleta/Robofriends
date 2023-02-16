@@ -2,8 +2,6 @@ import React, {Component} from "react";
 import CardList from './CardList';
 import SearchBox from './SearchBox';
 import {robots} from './robots';
-
-import logo from './logo.svg';
 import './App.css';
 
 class App extends Component {
