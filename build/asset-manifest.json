@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Robofriends/static/css/main.8717c631.css",
+    "main.js": "/Robofriends/static/js/main.56ae71c7.js",
+    "static/media/Wood Rocket_PersonalUseOnly.woff": "/Robofriends/static/media/Wood Rocket_PersonalUseOnly.feecb6fa89ce7d17b11b.woff",
+    "index.html": "/Robofriends/index.html",
+    "main.8717c631.css.map": "/Robofriends/static/css/main.8717c631.css.map",
+    "main.56ae71c7.js.map": "/Robofriends/static/js/main.56ae71c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8717c631.css",
+    "static/js/main.56ae71c7.js"
+  ]
+}
